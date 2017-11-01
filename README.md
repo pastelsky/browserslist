@@ -13,7 +13,6 @@ It is used in:
 * [stylelint-no-unsupported-browser-features]
 * [postcss-normalize]
 
-
 All tools that rely on Browserslist will find its config automatically,
 when you add the following to `package.json`:
 
